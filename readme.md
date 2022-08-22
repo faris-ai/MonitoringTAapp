@@ -4,3 +4,5 @@
   </a>
 
   <h3 align="center">Monitoring TA Application</h3>
+
+ Aplikasi Windows Form simpel untuk memonitoring tugas akhir / skripsi
